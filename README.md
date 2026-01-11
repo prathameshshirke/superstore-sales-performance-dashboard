@@ -18,4 +18,4 @@ and Power BI for dashboard creation.
 Supports data-driven decision-making using interactive dashboards.
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Super Store Sales Dashboard.png)
