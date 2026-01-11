@@ -16,3 +16,6 @@ and Power BI for dashboard creation.
 
 ## 🎯 Business Value
 Supports data-driven decision-making using interactive dashboards.
+
+## 📊 Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
